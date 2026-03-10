@@ -352,7 +352,7 @@ export default function Home() {
             <div className="border-l-4 border-primary pl-6 py-4">
               <h3 className="text-2xl font-semibold mb-2">Bacharelado em Engenharia de Computação</h3>
               <p className="text-primary font-medium mb-2">CEFET/RJ, Petrópolis</p>
-              <p className="text-muted-foreground">2023 - Conclusão Prevista: 2027 | 6º período | C.R.: 8,17</p>
+              <p className="text-muted-foreground">2023 - Conclusão Prevista: 2027 | 7º período | C.R.: 8,30</p>
             </div>
             <div className="border-l-4 border-primary pl-6 py-4">
               <h3 className="text-2xl font-semibold mb-2">Ensino Médio Completo</h3>
