@@ -121,7 +121,7 @@ export default function Home() {
             <div className="border-l-4 border-primary pl-6 py-4">
               <div className="flex items-start justify-between mb-2">
                 <h3 className="text-2xl font-semibold">Identificação de Aplicações em Tráfego VPN Criptografado</h3>
-                <span className="text-sm text-muted-foreground bg-secondary px-3 py-1 rounded">06/2025 - presente</span>
+                <span className="text-sm text-muted-foreground bg-secondary px-3 py-1 rounded">06/2025 - 12/2025</span>
               </div>
               <p className="text-primary font-medium mb-3">Iniciação Científica | CEFET/RJ Campus Petrópolis</p>
               <p className="text-muted-foreground mb-4 leading-relaxed">
