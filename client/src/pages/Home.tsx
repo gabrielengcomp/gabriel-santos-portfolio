@@ -70,7 +70,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                Sou um estudante de Engenharia de Computação no CEFET/RJ, atualmente no 6º período, 
+                Sou um estudante de Engenharia de Computação no CEFET/RJ, atualmente no 7º período, 
                 com forte interesse em pesquisa científica, inteligência artificial e segurança de redes.
               </p>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
@@ -85,7 +85,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-primary font-semibold min-w-fit">Idade:</span>
-                  <span className="text-muted-foreground">20 anos (26/01/2005)</span>
+                  <span className="text-muted-foreground">21 anos (26/01/2005)</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="text-primary font-semibold min-w-fit">Email:</span>
